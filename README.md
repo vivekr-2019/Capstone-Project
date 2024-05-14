@@ -1,2 +1,5 @@
 # Capstone-Project
 Comprehensive approach for static and dynamic Data Analytics using AutoML
+
+Intrusion Detection Systems (IDS) are critical for network security, relying on current training data to detect attacks. With the surge of Internet of Things (IoT) devices generating massive data volumes, Machine Learning (ML) techniques have proven effective for analytics but face challenges in model selection, design, tuning, and updating. The dynamic nature of IoT data also leads to concept drift, degrading model performance over time. Automated Machine Learning (AutoML) aims to automatically optimize ML models for specific tasks. This paper reviews AutoML methods for model management, summarizing optimal solutions applied o the Intrusion Detection Evaluation Dataset (CICIDS2017) and IoT Network Intrusion Dataset. The comprehensive approach leverages AutoML for static and dynamic data analytics to enhance intrusion detection and IoT network security
+![arc_diagram drawio](https://github.com/vivekr-2019/Capstone-Project/assets/86454425/8060c34f-b337-4edd-9e7f-11007c022036)
